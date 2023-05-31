@@ -310,6 +310,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 9
   score: {fileID: 871246951}
+  gameManager: {fileID: 2046606516}
 --- !u!95 &170942063
 Animator:
   serializedVersion: 5
